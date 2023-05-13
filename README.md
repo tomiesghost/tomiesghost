@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Top of the morning, welcome to my page</h2>
-<h2 align="left">Basic stuff:</h2>
+## Basic stuff:
 
 - I’m currently learning **C/C++**
 - Aspirations: **Network Programming | Malware Development**
