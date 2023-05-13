@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Top of the morning, welcome to my page (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
+<h2 align="left">Top of the morning, welcome to my page | (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
 
 Programming noob and Cybersecurity Enthusiast
 
