@@ -28,7 +28,7 @@ I write blogs over on: https://avalexus.medium.com/
 <br>
 
 ## Stuff I suck at and also want to learn:
-- Currently studying: **C/C++** (Will move onto x86 asm once I've got a good grasp)
+- Currently studying: **C/C++** (Will later move onto x86 asm)
 - Aspirations: **Network Programming | Cryptography | Malware Development**
 <br>
 
