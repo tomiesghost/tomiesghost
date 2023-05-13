@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 **Follow along and watch me struggle**
 
+## Stuff I suck at and also want to learn:
 - Currently learning: **C/C++**
 - Aspirations: **Network Programming | Malware Development**
 
