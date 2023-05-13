@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 Programming noob and Cybersecurity Enthusiast
 
 Follow along and watch me struggle
+
 <br>
 
 ## Stuff I suck at and also want to learn:
