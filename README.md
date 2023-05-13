@@ -20,8 +20,7 @@ Programming noob and Cybersecurity Enthusiast
 
 Follow along and watch me struggle
 
-
-
+<br>
 
 ## Stuff I suck at and also want to learn:
 - Currently studying: **C/C++**
