@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Top of the morning, welcome to my page</h2>
 
-**Programming noob and Cybersecurity Enthusiast**
+Programming noob and Cybersecurity Enthusiast
 
-**Follow along and watch me struggle**
+Follow along and watch me struggle
 
 ## Stuff I suck at and also want to learn:
 - Currently learning: **C/C++**
