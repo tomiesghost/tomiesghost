@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 Programming noob and Cybersecurity Enthusiast
 
 Follow along and watch me struggle
-
 <br>
 
 ## Stuff I suck at and also want to learn:
 - Currently studying: **C/C++**
 - Aspirations: **Network Programming | Malware Development**
-
+<br>
 
 ## Stats
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
