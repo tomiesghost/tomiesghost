@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h2 align="left">Top of the morning, welcome to my page</h2>
 
 **Programming noob and Cybersecurity Enthusiast**
+
 **Follow along and watch me struggle**
 
 - Currently learning: **C/C++**
