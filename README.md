@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Top of the morning, welcome to my page | (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
 
+<br>
+
+## About Me
 Programming noob and Cybersecurity Enthusiast
 
-Follow along and watch me struggle
+Follow along and watch me **struggle**
+
+I write blogs over on: https://avalexus.medium.com/
 
 <br>
 
