@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 ## About Me
-Programming noob and Cybersecurity Enthusiast
+Programming noob and Cybersecurity Hobbyist
 
 Follow along and watch me **struggle**
 
