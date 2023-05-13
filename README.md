@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - Aspirations: **Network Programming | Malware Development**
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats)
+![alt-text-1][![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
+![alt-text-2]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
