@@ -37,4 +37,4 @@ https://github.com/blightchild/blightchild/assets/74523173/1996a703-d011-4a64-8a
 
 <br>
 
-![](https://komarev.com/ghpvc/?blightchild=your-github-blightchild&color=blueviolet)
+![](https://komarev.com/ghpvc/?blightchild=blightchild&color=blueviolet)
