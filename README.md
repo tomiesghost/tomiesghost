@@ -28,7 +28,6 @@ I write blogs over on: https://avalexus.medium.com/
 
 ## Save a life, donate Monero
 ```Wallet Address: 45kzWysEpd36xyUCE5WR7xReHGUDoTY7ZXn2vHzHZvSR8CKgQXo43x1SofLiHmQmWmjaFk29yWdLZRyjLJfEGtPpGW52z9C``` ![monerochan](https://github.com/blightchild/blightchild/assets/74523173/a9004461-03de-4262-a9b7-708411cb10ae)
-45kzWysEpd36xyUCE5WR7xReHGUDoTY7ZXn2vHzHZvSR8CKgQXo43x1SofLiHmQmWmjaFk29yWdLZRyjLJfEGtPpGW52z9C
  
 <br>
 
