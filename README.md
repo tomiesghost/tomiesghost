@@ -6,7 +6,7 @@
 <br>
 
 ## About Me
-Programming noob and Cybersecurity Hobbyist
+Programmer and Cybersecurity Hobbyist
 
 Follow along and watch me **ascend**
 
