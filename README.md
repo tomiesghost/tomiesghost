@@ -8,13 +8,13 @@
 ## About Me
 Programming noob and Cybersecurity Hobbyist
 
-Follow along and watch me **struggle**
+Follow along and watch me **ascend**
 
 I write blogs over on: https://avalexus.medium.com/
 
 <br>
 
-## Stuff I suck at and also want to learn:
+## Progress Status & Goals:
 - Currently studying: **C/C++** (Will later move onto x86 asm)
 - Aspirations: **Network Programming | Cryptography | Malware Development**
 <br>
