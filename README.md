@@ -32,11 +32,11 @@ Aspirations: **Network Programming | Malware Development**
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
 
 **Profile Visits:**
 
-![:blightchild](https://count.getloli.com/get/@:blightchild)
+![:blightchild](https://count.getloli.com/get/@:blightchild) &nbsp; ![geist](https://github.com/blightchild/blightchild/assets/74523173/3ade953f-2584-4f4b-8e96-80c63a832265)
 <br>
 
 ## Monero Tip Jar
