@@ -19,6 +19,11 @@ I write blogs over on: https://avalexus.medium.com/
 - Aspirations: **Network Programming | Cryptography | Malware Development**
 <br>
 
+## Tools 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<br>
+
 ## Stats
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
