@@ -8,8 +8,6 @@
 ## About Me
 Programmer and Cybersecurity Hobbyist
 
-Follow along and watch me **ascend**
-
 I write blogs over on: https://avalexus.medium.com/
 
 
