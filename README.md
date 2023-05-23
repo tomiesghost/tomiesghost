@@ -15,8 +15,11 @@ I write blogs over on: https://avalexus.medium.com/
 <br>
 
 ## Progress Status & Goals:
+ 
 - Currently studying: **Data Structures & Algorithms in C/C++**
-- Aspirations: **Network Programming | Cryptography | Malware Development**
+- Aspirations: **Network Programming | Malware Development**
+
+<p align="left"> <img src="https://thesocietypages.org/cyborgology/files/2012/02/ghost-in-the-shell-fingers.jpg" </p>
 <br>
 
 ## Skills:
