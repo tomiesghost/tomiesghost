@@ -10,8 +10,7 @@ Programmer and Cybersecurity Hobbyist
 
 I write blogs over on: https://avalexus.medium.com/
 
-
-![geist](https://github.com/blightchild/blightchild/assets/74523173/3ade953f-2584-4f4b-8e96-80c63a832265)
+![polka](https://github.com/polkaghost/polkaghost/assets/74523173/25aa030d-7b6d-4164-b289-76522ff970ad)
 
 <br>
 
