@@ -16,18 +16,17 @@ I write blogs over on: https://avalexus.medium.com/
 
 ## Progress Status & Goals:
  
- 
 Currently studying: **Data Structures & Algorithms in C/C++**
  
 Aspirations: **Network Programming | Malware Development** 
 
-<p align="left"> <img src="https://thesocietypages.org/cyborgology/files/2012/02/ghost-in-the-shell-fingers.jpg" </p>
- 
+![hands](https://github.com/blightchild/blightchild/assets/74523173/1dc63b6b-7804-4f33-86d1-52f3e29797f0)
+
 <br>
 
 ## Skills:
 
-<p align = "left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" alt="vim" width="40" height="40"/> </a> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="windows" width="40" height="40"/> </a> </p> 
+<p align = "left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="bash" width="40" height="40"/> </a> <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" alt="vim" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="windows" width="40" height="40"/> </a> </p> 
 
 <br>
 
@@ -35,7 +34,7 @@ Aspirations: **Network Programming | Malware Development**
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blightchild&show_icons=true&theme=dracula)](https://github.com/blightchild/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blightchild&show_icons=true&theme=dracula)
 
-![](https://komarev.com/ghpvc/?username=blightchild&color=ff69b4)
+![:blightchild](https://count.getloli.com/get/@:blightchild)
 <br>
 
 ## Monero Tip Jar
