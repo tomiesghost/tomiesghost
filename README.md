@@ -12,6 +12,9 @@ Follow along and watch me **ascend**
 
 I write blogs over on: https://avalexus.medium.com/
 
+
+![geist](https://github.com/blightchild/blightchild/assets/74523173/3ade953f-2584-4f4b-8e96-80c63a832265)
+
 <br>
 
 ## Progress Status & Goals:
@@ -36,7 +39,7 @@ Aspirations: **Network Programming | Malware Development**
 
 **Profile Visits:**
 
-![:blightchild](https://count.getloli.com/get/@:blightchild) &nbsp; ![geist](https://github.com/blightchild/blightchild/assets/74523173/3ade953f-2584-4f4b-8e96-80c63a832265)
+![:blightchild](https://count.getloli.com/get/@:blightchild) 
 <br>
 
 ## Monero Tip Jar
