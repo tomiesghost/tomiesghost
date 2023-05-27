@@ -16,7 +16,7 @@ I write blogs over on: https://avalexus.medium.com/
 
 ## Progress Status & Goals:
  
-Currently studying: **Win32 API Programming in C++**
+Currently studying: **Data Structures and Algorithms | Win32 API Programming**
  
 Aspirations: **Network Programming | Malware Development** 
 
