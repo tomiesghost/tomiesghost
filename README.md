@@ -9,7 +9,7 @@
 <br>
 
 ## About Me
-Programmer and Cybersecurity Hobbyist
+Data Scientist and Cybersecurity Hobbyist
 
 I write blogs over on: https://avalexus.medium.com/
 
@@ -20,7 +20,7 @@ I write blogs over on: https://avalexus.medium.com/
 
 ## Progress Status & Goals:
  
-Currently studying: **Data Structures and Algorithms | Win32 API Programming**
+Currently studying: **MLOPS | Data Structures and Algorithms | Win32 API Programming**
  
 Aspirations: **Network Programming | Malware Development** 
 
