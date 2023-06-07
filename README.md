@@ -3,6 +3,9 @@
 
 ![letsgetthis](https://github.com/blightchild/blightchild/assets/74523173/865aaa01-51e5-4f1c-b0cf-0f354028abe1)
 
+
+
+
 <br>
 
 ## About Me
@@ -10,7 +13,8 @@ Programmer and Cybersecurity Hobbyist
 
 I write blogs over on: https://avalexus.medium.com/
 
-![polka](https://github.com/polkaghost/polkaghost/assets/74523173/25aa030d-7b6d-4164-b289-76522ff970ad)
+
+![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
 <br>
 
