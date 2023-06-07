@@ -13,6 +13,7 @@ Data Scientist and Cybersecurity Hobbyist
 
 I write blogs over on: https://avalexus.medium.com/
 
+![mai-sakurajima-holding-hands-on-machine-learning](https://github.com/polkaghost/polkaghost/assets/74523173/08254984-dd75-4889-af7d-4b9ab6f35db7)
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
