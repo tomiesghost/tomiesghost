@@ -56,6 +56,7 @@ Aspirations: **Network Programming | Malware Development**
 <br>
 
 ## Why are you still here
+![FIeq5BhVEA47fmZ](https://github.com/polkaghost/polkaghost/assets/74523173/02543dae-86d5-4b65-a008-513b5937f89a)
 
 https://github.com/polkaghost/polkaghost/assets/74523173/e9a86175-d6ea-4f0f-adf2-17eb5e84d2de
 
