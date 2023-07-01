@@ -9,11 +9,11 @@
 <br>
 
 ## About Me
-Cybersecurity Hobbyist
+25 yr old Cybersecurity Hobbyist
 
 Vim Elitist
 
-I like making cool stuffs
+Funny programs make computer do silly stuff
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
@@ -21,7 +21,7 @@ I like making cool stuffs
 
 ## Progress Status & Goals:
  
-Currently studying: **Data Structures and Algorithms | Win32 API Programming**
+Currently studying: **Data Structures and Algorithms | Win32 API Programming | Reverse Engineering**
  
 Aspirations: **Network Programming | Malware Development** 
 
