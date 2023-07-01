@@ -11,7 +11,7 @@
 ## About Me
 Data Scientist and Cybersecurity Hobbyist
 
-I write blogs over on: https://avalexus.medium.com/
+I like making cool stuff
 
 ![mai-sakurajima-holding-hands-on-machine-learning](https://github.com/polkaghost/polkaghost/assets/74523173/08254984-dd75-4889-af7d-4b9ab6f35db7)
 
