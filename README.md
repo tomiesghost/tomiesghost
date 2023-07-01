@@ -21,7 +21,7 @@ I like making cool stuffs
 
 ## Progress Status & Goals:
  
-Currently studying: **MLOPS | Data Structures and Algorithms | Win32 API Programming**
+Currently studying: **Data Structures and Algorithms | Win32 API Programming**
  
 Aspirations: **Network Programming | Malware Development** 
 
