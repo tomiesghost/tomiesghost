@@ -9,7 +9,7 @@
 <br>
 
 ## About Me
-25 yr old Cybersecurity Hobbyist
+Cybersecurity Hobbyist
 
 Vim Elitist
 
