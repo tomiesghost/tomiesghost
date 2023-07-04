@@ -13,7 +13,7 @@ Cybersecurity Hobbyist
 
 Vim Elitist
 
-Me write funny programs, make computer do silly stuff
+Funny programs make computer do silly stuff
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
