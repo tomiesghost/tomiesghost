@@ -21,7 +21,7 @@ Funny programs make computer do silly stuff
 
 ## Progress Status & Goals:
  
-Currently studying: **Data Structures | Win32 API Programming 
+Currently studying: **Data Structures | Win32 API Programming**
  
 Aspirations: **Reverse Engineering | Malware Development** 
 
