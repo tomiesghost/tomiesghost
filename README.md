@@ -21,7 +21,7 @@ Funny programs make computer do silly stuff
 
 ## Progress Status & Goals:
  
-Currently studying: **x86 Assembly | OS Architecture**
+Currently studying: **x86 Assembly | Computer Architecture**
  
 Aspirations: **Reverse Engineering | Malware Development** 
 
