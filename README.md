@@ -43,7 +43,7 @@ Aspirations: **Reverse Engineering | Malware Development**
 
 ## Profile Visits:
 
-![:blightchild](https://count.getloli.com/get/@:blightchild) 
+![:tomiesghost](https://count.getloli.com/get/@:tomiesghost) 
 
 <br>
 
