@@ -59,10 +59,12 @@ Aspirations: **Malware Development**
 
 
 ## Why are you still here
-![FIeq5BhVEA47fmZ](https://github.com/polkaghost/polkaghost/assets/74523173/02543dae-86d5-4b65-a008-513b5937f89a)
+
 
 https://github.com/polkaghost/polkaghost/assets/74523173/f39ab5a1-20d1-4a84-b3fc-bfddf77fc317
 
+
+https://github.com/tomiesghost/tomiesghost/assets/74523173/ffeb7f2d-db18-4af1-96a4-158fc760371a
 
 
 
