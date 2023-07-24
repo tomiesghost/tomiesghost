@@ -65,7 +65,12 @@ https://github.com/polkaghost/polkaghost/assets/74523173/f39ab5a1-20d1-4a84-b3fc
 
 https://github.com/tomiesghost/tomiesghost/assets/74523173/ffeb7f2d-db18-4af1-96a4-158fc760371a
 
+<br>
 
+## OKAY I PULL UP
+
+
+https://github.com/tomiesghost/tomiesghost/assets/74523173/238974b6-8ebc-49d3-931b-b03dba65cc69
 
 
 
