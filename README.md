@@ -19,12 +19,10 @@ Funny programs make computer do silly stuff
 
 <br>
 
-## Progress Status & Goals:
+## Progress Status:
  
-Currently studying: **C Data Structures | x86-64 Assembly | Reverse Engineering**
+Currently studying: **Reverse Engineering | Malware Development**
  
-Aspirations: **Malware Development** 
-
 ![hands](https://github.com/blightchild/blightchild/assets/74523173/1dc63b6b-7804-4f33-86d1-52f3e29797f0)
 <br>
 
