@@ -21,7 +21,7 @@ Funny programs make computer do silly stuff
 
 ## Progress Status:
  
-Currently studying: **Reverse Engineering | Malware Development**
+Currently studying: **Digital Architecture | x86 Assembly | Win32 API**
  
 ![hands](https://github.com/blightchild/blightchild/assets/74523173/1dc63b6b-7804-4f33-86d1-52f3e29797f0)
 <br>
