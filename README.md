@@ -22,7 +22,7 @@ Funny programs make computer do silly stuff
 
 ## Progress Status & Goals:
  
-Currently studying: **Digital Architecture | x86 Assembly | Win32 API**
+Currently studying: **Windows Internals | x86-64 Assembly**
 
 Aspirations: **Reverse Engineering | Malware Development**
  
