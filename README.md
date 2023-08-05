@@ -10,7 +10,7 @@
 <br>
 
 ## About Me
-Cybersecurity Hobbyist
+Offensive Security hobbyist
 
 Vim Elitist
 
