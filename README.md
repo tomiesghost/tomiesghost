@@ -12,7 +12,7 @@
 ## About Me
 Offensive Security hobbyist
 
-Vim Elitist
+Vim elitist
 
 Funny programs make computer do silly stuff
 
