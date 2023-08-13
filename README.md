@@ -25,7 +25,7 @@ Vim elitist
  
 Currently studying: **Windows Internals | x86-64 Assembly**
 
-Aspirations: **Reverse Engineering | Malware Development**
+Aspirations: **Malware Development | Reverse Engineering**
  
 ![hands](https://github.com/blightchild/blightchild/assets/74523173/1dc63b6b-7804-4f33-86d1-52f3e29797f0)
 <br>
