@@ -10,7 +10,7 @@
 <br>
 
 ## About Me
-Offensive Security hobbyist
+Offensive Security researcher
 
 C supremacist 
 
