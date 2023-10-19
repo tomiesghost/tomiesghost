@@ -23,7 +23,7 @@ Vim elitist
 
 ## Progress Status & Goals:
  
-Currently studying: **Windows Internals | x86-64 Assembly**
+Currently studying: **Win32 API | WMI**
 
 Aspirations: **Reverse Engineering | Malware Development**
  
