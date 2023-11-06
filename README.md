@@ -23,7 +23,7 @@ Vim elitist
 
 ## Progress Status & Goals:
  
-Currently studying: **x64 Assembly | Windows Internals**
+Currently studying: **x86-64 Assembly | Windows Internals**
 
 Aspirations: **Binary Exploitation**
  
