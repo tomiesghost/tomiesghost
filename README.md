@@ -23,9 +23,9 @@ Vim elitist
 
 ## Progress Status & Goals:
  
-Currently studying: **Win32 API | WMI**
+Currently studying: **Reverse Engineering | Windows Internals**
 
-Aspirations: **Reverse Engineering | Malware Development**
+Aspirations: **Malware Development**
  
 ![hands](https://github.com/blightchild/blightchild/assets/74523173/1dc63b6b-7804-4f33-86d1-52f3e29797f0)
 <br>
