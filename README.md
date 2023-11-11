@@ -10,12 +10,12 @@
 <br>
 
 ## About Me
-Offensive Security researcher
 
 C supremacist 
 
-Vim elitist
+Windows heathen
 
+UEFI degen
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
