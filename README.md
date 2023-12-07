@@ -1,7 +1,8 @@
 
-<h2 align="left">Top of the morning, welcome to my page | (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
+<h2 align="left">Welcome to my page, mortal | (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
 
-![letsgetthis](https://github.com/blightchild/blightchild/assets/74523173/865aaa01-51e5-4f1c-b0cf-0f354028abe1)
+![menos-grande](https://github.com/tomiesghost/tomiesghost/assets/74523173/f782cf17-3f87-4117-91d0-33e9ed7c5287)
+
 
           
 
@@ -18,6 +19,8 @@ Windows heathen
 UEFI degen
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
+
+
 
 <br>
 
