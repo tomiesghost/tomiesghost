@@ -1,7 +1,8 @@
 
 
 
-![seoul](https://github.com/tomiesghost/tomiesghost/assets/74523173/123da5b9-4e34-47bf-a201-a5325aa22dce)
+<img width="794" alt="solo2" src="https://github.com/tomiesghost/tomiesghost/assets/74523173/be730dbe-decc-43f3-b073-16765a647d76">
+
 
 
           
