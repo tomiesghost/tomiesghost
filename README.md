@@ -1,7 +1,7 @@
 
 <h2 align="left"> (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
 
-![menos-grande](https://github.com/tomiesghost/tomiesghost/assets/74523173/f782cf17-3f87-4117-91d0-33e9ed7c5287)
+![seoul](https://github.com/tomiesghost/tomiesghost/assets/74523173/123da5b9-4e34-47bf-a201-a5325aa22dce)
 
 
           
