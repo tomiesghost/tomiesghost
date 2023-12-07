@@ -1,5 +1,5 @@
 
-<h2 align="left"> (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
+
 
 ![seoul](https://github.com/tomiesghost/tomiesghost/assets/74523173/123da5b9-4e34-47bf-a201-a5325aa22dce)
 
