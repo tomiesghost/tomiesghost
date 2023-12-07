@@ -1,5 +1,5 @@
 
-<h2 align="left">Welcome to my page, mortal | (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
+<h2 align="left"> (∩｀-´)⊃━☆ﾟ.*・｡ﾟ</h2>
 
 ![menos-grande](https://github.com/tomiesghost/tomiesghost/assets/74523173/f782cf17-3f87-4117-91d0-33e9ed7c5287)
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## About Me
+## About Me   
 
 C supremacist 
 
