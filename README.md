@@ -29,7 +29,7 @@ UEFI degen
 
 ## Progress Status & Goals:
  
-Currently studying: **WMI**
+Currently studying: **x86-64 ASM | WMI**
 
 Aspirations: **Binary Exploitation**
  
