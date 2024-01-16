@@ -15,11 +15,11 @@
 
 ## About Me   
 
-C supremacist 
+C supremacist
 
-Windows heathen
+MASM masochist
 
-UEFI degen
+Learning how to build + break software
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
