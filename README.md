@@ -15,11 +15,9 @@
 
 ## About Me   
 
-C supremacist
+C supremacist + MASM masochist
 
-MASM masochist
-
-Learning how to build + break software
+Independent Security Researcher
 
 ![Miyamizu_Mitsuha_Reading_C_Programming](https://github.com/polkaghost/polkaghost/assets/74523173/e5d19ffc-1b9a-47b7-9ab7-5c7e509c003d)
 
