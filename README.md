@@ -1,17 +1,3 @@
-
-
-## (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
-![seoul](https://github.com/tomiesghost/tomiesghost/assets/74523173/4597e1fc-d833-4603-b3af-88691d0bdb1a)
-
-
-
-
-
-          
-
-
-
-
 ## GitHub Stats
 
 
