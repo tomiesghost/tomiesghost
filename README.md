@@ -1,3 +1,4 @@
+## WriteFile function (fileapi.h)
 ```
 BOOL WriteFile(
   [in]                HANDLE       hFile,
