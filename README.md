@@ -1,10 +1,1 @@
-## WriteFile function (fileapi.h)
-```
-BOOL WriteFile(
-  [in]                HANDLE       hFile,
-  [in]                LPCVOID      lpBuffer,
-  [in]                DWORD        nNumberOfBytesToWrite,
-  [out, optional]     LPDWORD      lpNumberOfBytesWritten,
-  [in, out, optional] LPOVERLAPPED lpOverlapped
-);
-```
+![low_level_cheatsheet](https://github.com/user-attachments/assets/a30b7bfa-1fb6-4519-96f9-dd1b5c09b3e3)
