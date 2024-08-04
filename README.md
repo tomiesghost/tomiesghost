@@ -1,1 +1,1 @@
-![low_level_cheatsheet](https://github.com/user-attachments/assets/a30b7bfa-1fb6-4519-96f9-dd1b5c09b3e3)
+![20240803_194703](https://github.com/user-attachments/assets/26fb0e63-78de-4e29-b04c-e4baca652b5f)
