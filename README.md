@@ -1,12 +1,7 @@
 ## About Me
-**Name**: geistmeister
+I'm an anime nerd with a focus on Windows-based programs and malware
+<br>
+My preferred langs are C/ASM
 
-**Age**: 26
+...I currently work as a Sales Associate in a hotel
 
-**Occupation**: Sales Associate at a hotel
-
-**Skills**: Low-level programming + Reverse Engineering
-
-**Langs**: C/ASM
-
-**Description**: Anime nerd with a focus on Windows-based programs and malware
