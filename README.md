@@ -6,6 +6,6 @@
 <br>
 **Age**: 26
 <br>
-**Skills**: Offensive tooling in C/ASM 
+**Skills**: Building Windows-based programs and malware in C/ASM 
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
