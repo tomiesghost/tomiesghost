@@ -1,4 +1,4 @@
-![eye3](https://github.com/user-attachments/assets/3be8f312-24a4-4663-ac1e-bf11985ee596)
+![eye3](https://github.com/user-attachments/assets/b3e474fd-7717-4cef-8212-1c10b9ba5868)
 
 
 ## About Me
