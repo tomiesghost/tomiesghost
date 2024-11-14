@@ -7,6 +7,6 @@
 <br>
 **Age**: 26
 <br>
-**Skills**: Writing low-level desktop malware for Windows 
+**Skills**: Writing low-level, desktop malware for Windows 
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
