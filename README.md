@@ -7,6 +7,6 @@
 <br>
 **Age**: 26
 <br>
-**Skills**: Low-Level R&D
+**Skills**: Offensive tooling in C/ASM
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
