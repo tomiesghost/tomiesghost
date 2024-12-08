@@ -7,6 +7,6 @@
 <br>
 **Age**: 26
 <br>
-**Skills**: Writing low-level programs and malware
+**Skills**: Low-Level R&D
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
