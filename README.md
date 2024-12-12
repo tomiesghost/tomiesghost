@@ -7,6 +7,6 @@
 <br>
 **Age**: 26
 <br>
-**Skills**: Software development and offensive tooling in C/ASM
+**Skills**: Maldev // RE // Binex
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
