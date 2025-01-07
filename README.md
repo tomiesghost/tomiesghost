@@ -2,11 +2,8 @@
 
 
 ## About Me
-
-**Name**: geistmeister
-<br>
-**Age**: 26
-<br>
 **Skills**: Maldev // RE // Binex
 <br>
 **Occupation**: Sales Associate at a photo booth (Please help me)
+<br>
+**Fun Fact**: Is terrible at webdev
