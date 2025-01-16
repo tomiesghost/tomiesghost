@@ -1,4 +1,4 @@
-![eye3](https://github.com/user-attachments/assets/b3e474fd-7717-4cef-8212-1c10b9ba5868)
+![low_level_cheatsheet](https://github.com/user-attachments/assets/8f1c4454-2b0d-4c5d-9953-c207f7b2eb07)
 
 
 ## About Me
