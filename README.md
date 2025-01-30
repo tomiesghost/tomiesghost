@@ -4,4 +4,4 @@
 ## About Me
 **Skills**: Maldev // RE // Binex
 <br>
-**Occupation**: Sales Associate at a photo booth (Please help me)
+**Currently**: Learning cryptography (I am losing my mind)
